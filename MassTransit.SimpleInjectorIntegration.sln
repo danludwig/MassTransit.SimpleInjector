@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{E65D82
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransit.SimpleInjectorIntegration.UnitTests", "MassTransit.SimpleInjectorIntegration.UnitTests\MassTransit.SimpleInjectorIntegration.UnitTests.csproj", "{0682B951-AFDC-435E-B510-94341A708138}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,6 +24,10 @@ Global
 		{64B11BA7-99F4-4E6D-80E2-2CB2C86F9323}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64B11BA7-99F4-4E6D-80E2-2CB2C86F9323}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64B11BA7-99F4-4E6D-80E2-2CB2C86F9323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0682B951-AFDC-435E-B510-94341A708138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0682B951-AFDC-435E-B510-94341A708138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0682B951-AFDC-435E-B510-94341A708138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0682B951-AFDC-435E-B510-94341A708138}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
